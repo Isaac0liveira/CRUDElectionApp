@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "environments.test.dataSource.url",
+      "type": "java.lang.String",
+      "description": "Description for environments.test.dataSource.url."
+    },
+    {
+      "name": "grails.profile",
+      "type": "java.lang.String",
+      "description": "Description for grails.profile."
+    }
+  ] }

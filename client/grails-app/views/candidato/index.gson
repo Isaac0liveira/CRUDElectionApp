@@ -1,0 +1,9 @@
+import t2.Candidato
+
+model {
+    ArrayList<Candidato> candidato
+}
+
+json{
+    candidatos g.render(template: "candidato", collection: candidato, var: "candidato")
+}
