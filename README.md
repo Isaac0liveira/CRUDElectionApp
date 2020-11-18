@@ -1,5 +1,5 @@
 # CRUDElectionApp
-<h3>Este é um projeto de CRUD para simular uma eleição, usando ReactJS, JSX e CSS.<h3>
+<h3>Este é um projeto de CRUD para simular uma eleição, usando Grails, ReactJS, JSX e CSS.<h3>
 
 <br>
 
